@@ -2,18 +2,11 @@
 #include <stdlib.h>     
 #include <stdio.h>
 
-int main(int argc, char *argv[]){
+int main(){
 
 	FILE *fichero; 
-	int n = 0;
+	int n = 0, i = 0;
 	int res[2000];
-	int i = 0;
-	int n1 = 0;
-	int n2 = 0;
-	int n3 = 0;
-	int j = 0;
-	int z = 0;
-	int resultado = 0,resultado2=0;
 	char cadena[100];
 
    	fichero = fopen ("input.txt", "r");
