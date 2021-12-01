@@ -31,21 +31,21 @@ To do this, count <em>the number of times a depth measurement increases</em> fro
 
 
 	<code>199 (N/A - no previous measurement)
-	200 (<em>increased</em>)
-	208 (<em>increased</em>)
-	210 (<em>increased</em>)
+	200 (increased)
+	208 (increased)
+	210 (increased)
 	200 (decreased)
-	207 (<em>increased</em>)
-	240 (<em>increased</em>)
-	269 (<em>increased</em>)
+	207 (increased)
+	240 (increased)
+	269 (increased)
 	260 (decreased)
-	263 (<em>increased</em>)
+	263 (increased)
 	</code>
 
 
 In this example, there are <em><code>7</code></em> measurements that are larger than the previous measurement.
 
-<em>How many measurements are larger than the previous measurement?</em>
+##### How many measurements are larger than the previous measurement?
 
 
 ## --- Part Two ---
@@ -53,19 +53,16 @@ Considering every single measurement isn't as useful as you expected: there's ju
 
 Instead, consider sums of a <em>three-measurement sliding window</em>.  Again considering the above example:
 
-<pre>
-<code>199  A      
-200  A B    
-208  A B C  
-210    B C D
-200  E   C D
-207  E F   D
-240  E F G  
-269    F G H
-260      G H
-263        H
-</code>
-</pre>
+	199  A      
+	200  A B    
+	208  A B C  
+	210    B C D
+	200  E   C D
+	207  E F   D
+	240  E F G  
+	269    F G H
+	260      G H
+	263        H
 
 Start by comparing the first and second three-measurement windows. The measurements in the first window are marked <code>A</code> (<code>199</code>, <code>200</code>, <code>208</code>); their sum is <code>199 + 200 + 208 = 607</code>. The second window is marked <code>B</code> (<code>200</code>, <code>208</code>, <code>210</code>); its sum is <code>618</code>. The sum of measurements in the second window is larger than the sum of the first, so this first comparison <em>increased</em>.
 
@@ -73,19 +70,19 @@ Your goal now is to count <em>the number of times the sum of measurements in thi
 
 In the above example, the sum of each three-measurement window is as follows:
 
-<pre>
-<code>A: 607 (N/A - no previous sum)
-B: 618 (<em>increased</em>)
-C: 618 (no change)
-D: 617 (decreased)
-E: 647 (<em>increased</em>)
-F: 716 (<em>increased</em>)
-G: 769 (<em>increased</em>)
-H: 792 (<em>increased</em>)
-</code>
-</pre>
+	A: 607 (N/A - no previous sum)
+	B: 618 (increased)
+	C: 618 (no change)
+	D: 617 (decreased)
+	E: 647 (increased)
+	F: 716 (increased)
+	G: 769 (increased)
+	H: 792 (increased)
+
 
 In this example, there are <em><code>5</code></em> sums that are larger than the previous sum.
 
-Consider sums of a three-measurement sliding window. <em>How many sums are larger than the previous sum?</em>
+Consider sums of a three-measurement sliding window. 
+
+##### How many sums are larger than the previous sum?
 
