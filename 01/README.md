@@ -7,6 +7,8 @@ Your instincts tell you that in order to save Christmas, you'll need to get all 
 
 Collect stars by solving puzzles.  Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first.  Each puzzle grants <em>one star</em>. Good luck!
 
+## Part One
+
 As the submarine drops below the surface of the ocean, it automatically performs a sonar sweep of the nearby sea floor. On a small screen, the sonar sweep report (your puzzle input) appears: each line is a measurement of the sea floor depth as the sweep looks further and further away from the submarine.
 
 For example, suppose you had the following report:
@@ -30,7 +32,7 @@ The first order of business is to figure out how quickly the depth increases, ju
 To do this, count <em>the number of times a depth measurement increases</em> from the previous measurement. (There is no measurement before the first measurement.) In the example above, the changes are as follows:
 
 
-	<code>199 (N/A - no previous measurement)
+	199 (N/A - no previous measurement)
 	200 (increased)
 	208 (increased)
 	210 (increased)
@@ -40,15 +42,15 @@ To do this, count <em>the number of times a depth measurement increases</em> fro
 	269 (increased)
 	260 (decreased)
 	263 (increased)
-	</code>
+	
 
 
 In this example, there are <em><code>7</code></em> measurements that are larger than the previous measurement.
 
-##### How many measurements are larger than the previous measurement?
+#### How many measurements are larger than the previous measurement?
 
 
-## --- Part Two ---
+## Part Two
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
 
 Instead, consider sums of a <em>three-measurement sliding window</em>.  Again considering the above example:
@@ -84,5 +86,5 @@ In this example, there are <em><code>5</code></em> sums that are larger than the
 
 Consider sums of a three-measurement sliding window. 
 
-##### How many sums are larger than the previous sum?
+#### How many sums are larger than the previous sum?
 
