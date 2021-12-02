@@ -1,6 +1,8 @@
 ## Day 2: Dive! [https://adventofcode.com/2021/day/1](https://adventofcode.com/2021/day/1)
+
 Now, you need to figure out how to pilot this thing.
 
+## Part One
 It seems like the submarine can take a series of commands like <code>forward 1</code>, <code>down 2 </code>, or <code>up 3</code>:
 
 forward X increases the horizontal position by X units.
@@ -10,11 +12,27 @@ Note that since you're on a submarine, down and up affect your depth, and so the
 
 The submarine seems to already have a planned course (your puzzle input). You should probably figure out where it's going. For example:
 
-## Part One
+	forward 5
+	down 5
+	forward 8
+	up 3
+	down 8
+	forward 2
 
-As the submarine drops below the surface of the ocean, it automatically performs a sonar sweep of the nearby sea floor. On a small screen, the sonar sweep report (your puzzle input) appears: each line is a measurement of the sea floor depth as the sweep looks further and further away from the submarine.
+Your horizontal position and depth both start at 0. The steps above would then modify them as follows:
 
-For example, suppose you had the following report:
+<code>forward 5 </code> adds 5 to your horizontal position, a total of 5.
+<code>down 5 </code> adds 5 to your depth, resulting in a value of 5.
+<code>forward 8 </code> adds 8 to your horizontal position, a total of 13.
+<code>up 3 </code> decreases your depth by 3, resulting in a value of 2.
+<code>down 8 </code> adds 8 to your depth, resulting in a value of 10.
+<code>forward 2 </code> adds 2 to your horizontal position, a total of 15.
+
+After following these instructions, you would have a horizontal position of 15 and a depth of 10. (Multiplying these together produces 150.)
+
+Calculate the horizontal position and depth you would have after following the planned course. 
+
+#### What do you get if you multiply your final horizontal position by your final depth?
 
 	199
 	200
