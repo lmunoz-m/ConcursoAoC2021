@@ -3,7 +3,7 @@
 Now, you need to figure out how to pilot this thing.
 
 ## Part One
-It seems like the submarine can take a series of commands like <code>forward 1</code>, <code>down 2 </code>, or <code>up 3</code>:
+It seems like the submarine can take a series of commands like <code>Forward 1</code>, <code>Down 2 </code>, or <code>Up 3</code>:
 
 forward X increases the horizontal position by X units.
 down X increases the depth by X units.
@@ -21,12 +21,18 @@ The submarine seems to already have a planned course (your puzzle input). You sh
 
 Your horizontal position and depth both start at 0. The steps above would then modify them as follows:
 
-<code>forward 5 </code> adds 5 to your horizontal position, a total of 5.
-<code>down 5 </code> adds 5 to your depth, resulting in a value of 5.
-<code>forward 8 </code> adds 8 to your horizontal position, a total of 13.
-<code>up 3 </code> decreases your depth by 3, resulting in a value of 2.
-<code>down 8 </code> adds 8 to your depth, resulting in a value of 10.
-<code>forward 2 </code> adds 2 to your horizontal position, a total of 15.
+<code>Forward 5 </code> adds 5 to your horizontal position, a total of 5.
+
+<code>Down 5 </code> adds 5 to your depth, resulting in a value of 5.
+
+<code>Forward 8 </code> adds 8 to your horizontal position, a total of 13.
+
+<code>Up 3 </code> decreases your depth by 3, resulting in a value of 2.
+
+<code>Down 8 </code> adds 8 to your depth, resulting in a value of 10.
+
+<code>Forward 2 </code> adds 2 to your horizontal position, a total of 15.
+
 
 After following these instructions, you would have a horizontal position of 15 and a depth of 10. (Multiplying these together produces 150.)
 
