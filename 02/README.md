@@ -33,7 +33,8 @@ Your horizontal position and depth both start at <code>0</code>. The steps above
 
 After following these instructions, you would have a horizontal position of <code>15</code> and a depth of <code>10</code>. (Multiplying these together produces <code><em>150</em></code>.)
 
-Calculate the horizontal position and depth you would have after following the planned course. <em>What do you get if you multiply your final horizontal position by your final depth?</em>
+Calculate the horizontal position and depth you would have after following the planned course. 
+#### What do you get if you multiply your final horizontal position by your final depth?
 
 ## Part Two
 Based on your calculations, the planned course doesn't seem to make any sense. You find the submarine manual and discover that the process is actually slightly more complicated.
@@ -62,5 +63,7 @@ Now, the above example does something different:
 
 After following these new instructions, you would have a horizontal position of <code>15</code> and a depth of <code>60</code>. (Multiplying these produces <code><em>900</em></code>.)
 
-Using this new interpretation of the commands, calculate the horizontal position and depth you would have after following the planned course. <em>What do you get if you multiply your final horizontal position by your final depth?</em>
+Using this new interpretation of the commands, calculate the horizontal position and depth you would have after following the planned course. 
+
+#### What do you get if you multiply your final horizontal position by your final depth?
 
