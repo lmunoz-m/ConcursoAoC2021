@@ -1,0 +1,803 @@
+17,58,52,49,72,33,55,73,27,69,88,80,9,7,59,98,63,42,84,37,87,28,97,66,79,77,61,48,83,5,94,26,70,12,51,82,99,45,22,64,10,78,13,18,15,39,8,30,68,65,40,21,6,86,90,29,60,4,38,3,43,93,44,50,41,96,20,62,19,91,23,36,47,92,76,31,67,11,0,56,95,85,35,16,2,14,75,53,1,57,81,46,71,54,24,74,89,32,25,34,
+Encontrado el numeros 17 en la matriz 1 en la iteracion 1
+Encontrado el numeros 55 en la matriz 1 en la iteracion 2
+Encontrado el numeros 73 en la matriz 1 en la iteracion 3
+Encontrado el numeros 27 en la matriz 1 en la iteracion 4
+Encontrado el numeros 59 en la matriz 1 en la iteracion 5
+Encontrado el numeros 98 en la matriz 1 en la iteracion 6
+Encontrado el numeros 84 en la matriz 1 en la iteracion 7
+-5 -5 -5 -5 56 
+-5 35 18 64 34 
+62 16 74 26 -5 
+21 99 1 19 93 
+65 68 53 24 -5 
+
+Encontrado el numeros 49 en la matriz 2 en la iteracion 1
+Encontrado el numeros 33 en la matriz 2 en la iteracion 2
+Encontrado el numeros 73 en la matriz 2 en la iteracion 3
+Encontrado el numeros 27 en la matriz 2 en la iteracion 4
+Encontrado el numeros 69 en la matriz 2 en la iteracion 5
+Encontrado el numeros 98 en la matriz 2 en la iteracion 6
+Encontrado el numeros 28 en la matriz 2 en la iteracion 7
+Encontrado el numeros 77 en la matriz 2 en la iteracion 8
+1 86 -5 16 6 
+93 -5 -5 -5 71 
+54 43 -5 29 47 
+82 -5 99 31 -5 
+-5 48 36 89 20 
+
+Encontrado el numeros 17 en la matriz 3 en la iteracion 1
+Encontrado el numeros 52 en la matriz 3 en la iteracion 2
+Encontrado el numeros 80 en la matriz 3 en la iteracion 3
+Encontrado el numeros 77 en la matriz 3 en la iteracion 4
+-5 92 -5 23 67 
+47 38 4 25 65 
+54 31 -5 13 39 
+18 70 -5 22 24 
+14 99 30 96 8 
+
+Encontrado el numeros 17 en la matriz 4 en la iteracion 1
+Encontrado el numeros 72 en la matriz 4 en la iteracion 2
+Encontrado el numeros 73 en la matriz 4 en la iteracion 3
+Encontrado el numeros 88 en la matriz 4 en la iteracion 4
+Encontrado el numeros 7 en la matriz 4 en la iteracion 5
+Encontrado el numeros 59 en la matriz 4 en la iteracion 6
+Encontrado el numeros 42 en la matriz 4 en la iteracion 7
+Encontrado el numeros 37 en la matriz 4 en la iteracion 8
+Encontrado el numeros 97 en la matriz 4 en la iteracion 9
+Encontrado el numeros 79 en la matriz 4 en la iteracion 10
+-5 -5 -5 48 71 
+60 50 15 -5 24 
+78 6 -5 56 91 
+70 30 -5 46 -5 
+41 -5 32 -5 -5 
+
+Encontrado el numeros 17 en la matriz 5 en la iteracion 1
+Encontrado el numeros 27 en la matriz 5 en la iteracion 2
+Encontrado el numeros 42 en la matriz 5 en la iteracion 3
+Encontrado el numeros 37 en la matriz 5 en la iteracion 4
+Encontrado el numeros 87 en la matriz 5 en la iteracion 5
+Encontrado el numeros 28 en la matriz 5 en la iteracion 6
+-5 20 34 32 3 
+48 40 4 -5 -5 
+94 -5 14 24 57 
+-5 18 90 44 76 
+43 -5 46 5 19 
+
+Encontrado el numeros 49 en la matriz 6 en la iteracion 1
+Encontrado el numeros 73 en la matriz 6 en la iteracion 2
+Encontrado el numeros 69 en la matriz 6 en la iteracion 3
+Encontrado el numeros 88 en la matriz 6 en la iteracion 4
+Encontrado el numeros 87 en la matriz 6 en la iteracion 5
+Encontrado el numeros 97 en la matriz 6 en la iteracion 6
+Encontrado el numeros 77 en la matriz 6 en la iteracion 7
+3 -5 -5 -5 74 
+6 44 12 81 -5 
+-5 23 32 -5 53 
+83 4 85 38 61 
+10 -5 50 60 47 
+
+Encontrado el numeros 17 en la matriz 7 en la iteracion 1
+Encontrado el numeros 58 en la matriz 7 en la iteracion 2
+Encontrado el numeros 72 en la matriz 7 en la iteracion 3
+Encontrado el numeros 27 en la matriz 7 en la iteracion 4
+Encontrado el numeros 84 en la matriz 7 en la iteracion 5
+Encontrado el numeros 97 en la matriz 7 en la iteracion 6
+Encontrado el numeros 79 en la matriz 7 en la iteracion 7
+-5 -5 -5 31 -5 
+25 -5 35 -5 16 
+11 91 75 67 41 
+6 85 -5 44 86 
+43 40 54 95 68 
+
+Encontrado el numeros 72 en la matriz 8 en la iteracion 1
+Encontrado el numeros 55 en la matriz 8 en la iteracion 2
+Encontrado el numeros 88 en la matriz 8 en la iteracion 3
+Encontrado el numeros 98 en la matriz 8 en la iteracion 4
+Encontrado el numeros 63 en la matriz 8 en la iteracion 5
+70 -5 -5 22 50 
+96 -5 48 85 75 
+95 -5 8 26 14 
+16 -5 46 91 78 
+93 3 83 99 21 
+
+Encontrado el numeros 49 en la matriz 9 en la iteracion 1
+Encontrado el numeros 33 en la matriz 9 en la iteracion 2
+Encontrado el numeros 27 en la matriz 9 en la iteracion 3
+Encontrado el numeros 80 en la matriz 9 en la iteracion 4
+Encontrado el numeros 7 en la matriz 9 en la iteracion 5
+Encontrado el numeros 63 en la matriz 9 en la iteracion 6
+Encontrado el numeros 42 en la matriz 9 en la iteracion 7
+Encontrado el numeros 37 en la matriz 9 en la iteracion 8
+Encontrado el numeros 87 en la matriz 9 en la iteracion 9
+Encontrado el numeros 79 en la matriz 9 en la iteracion 10
+29 -5 6 75 36 
+-5 93 23 -5 65 
+56 -5 -5 48 -5 
+-5 24 -5 53 -5 
+86 46 95 99 -5 
+
+Encontrado el numeros 49 en la matriz 10 en la iteracion 1
+Encontrado el numeros 72 en la matriz 10 en la iteracion 2
+Encontrado el numeros 33 en la matriz 10 en la iteracion 3
+Encontrado el numeros 97 en la matriz 10 en la iteracion 4
+-5 30 -5 99 65 
+-5 93 76 36 53 
+26 35 86 -5 12 
+47 19 54 25 3 
+75 34 50 8 95 
+
+Encontrado el numeros 58 en la matriz 11 en la iteracion 1
+Encontrado el numeros 49 en la matriz 11 en la iteracion 2
+Encontrado el numeros 72 en la matriz 11 en la iteracion 3
+Encontrado el numeros 73 en la matriz 11 en la iteracion 4
+Encontrado el numeros 69 en la matriz 11 en la iteracion 5
+Encontrado el numeros 9 en la matriz 11 en la iteracion 6
+41 -5 -5 0 48 
+-5 -5 -5 61 85 
+56 20 -5 57 1 
+12 82 38 21 46 
+34 83 11 68 53 
+
+Encontrado el numeros 33 en la matriz 12 en la iteracion 1
+Encontrado el numeros 63 en la matriz 12 en la iteracion 2
+Encontrado el numeros 79 en la matriz 12 en la iteracion 3
+Encontrado el numeros 77 en la matriz 12 en la iteracion 4
+54 -5 35 24 -5 
+89 -5 75 76 96 
+94 2 38 39 40 
+-5 51 34 12 30 
+20 21 70 26 23 
+
+Encontrado el numeros 33 en la matriz 13 en la iteracion 1
+Encontrado el numeros 55 en la matriz 13 en la iteracion 2
+Encontrado el numeros 27 en la matriz 13 en la iteracion 3
+Encontrado el numeros 42 en la matriz 13 en la iteracion 4
+Encontrado el numeros 87 en la matriz 13 en la iteracion 5
+Encontrado el numeros 66 en la matriz 13 en la iteracion 6
+82 62 -5 -5 19 
+94 65 18 4 -5 
+0 30 -5 -5 -5 
+76 46 78 14 48 
+57 53 43 15 75 
+
+Encontrado el numeros 49 en la matriz 14 en la iteracion 1
+Encontrado el numeros 88 en la matriz 14 en la iteracion 2
+Encontrado el numeros 7 en la matriz 14 en la iteracion 3
+Encontrado el numeros 63 en la matriz 14 en la iteracion 4
+Encontrado el numeros 97 en la matriz 14 en la iteracion 5
+94 38 96 44 46 
+10 14 75 -5 76 
+-5 61 56 36 1 
+81 67 -5 78 86 
+31 65 -5 24 -5 
+
+Encontrado el numeros 33 en la matriz 15 en la iteracion 1
+Encontrado el numeros 55 en la matriz 15 en la iteracion 2
+Encontrado el numeros 73 en la matriz 15 en la iteracion 3
+Encontrado el numeros 80 en la matriz 15 en la iteracion 4
+Encontrado el numeros 59 en la matriz 15 en la iteracion 5
+Encontrado el numeros 98 en la matriz 15 en la iteracion 6
+Encontrado el numeros 84 en la matriz 15 en la iteracion 7
+Encontrado el numeros 66 en la matriz 15 en la iteracion 8
+Encontrado el numeros 79 en la matriz 15 en la iteracion 9
+22 2 51 36 24 
+78 62 67 13 -5 
+32 91 -5 -5 -5 
+-5 -5 54 3 85 
+65 70 -5 -5 -5 
+
+Encontrado el numeros 72 en la matriz 16 en la iteracion 1
+Encontrado el numeros 88 en la matriz 16 en la iteracion 2
+Encontrado el numeros 80 en la matriz 16 en la iteracion 3
+Encontrado el numeros 7 en la matriz 16 en la iteracion 4
+Encontrado el numeros 98 en la matriz 16 en la iteracion 5
+Encontrado el numeros 87 en la matriz 16 en la iteracion 6
+Encontrado el numeros 28 en la matriz 16 en la iteracion 7
+Encontrado el numeros 79 en la matriz 16 en la iteracion 8
+-5 1 23 70 47 
+91 -5 24 56 11 
+-5 -5 -5 31 86 
+-5 -5 -5 25 92 
+74 20 62 46 71 
+
+Encontrado el numeros 17 en la matriz 17 en la iteracion 1
+Encontrado el numeros 58 en la matriz 17 en la iteracion 2
+Encontrado el numeros 49 en la matriz 17 en la iteracion 3
+Encontrado el numeros 55 en la matriz 17 en la iteracion 4
+Encontrado el numeros 73 en la matriz 17 en la iteracion 5
+Encontrado el numeros 63 en la matriz 17 en la iteracion 6
+Encontrado el numeros 84 en la matriz 17 en la iteracion 7
+62 45 91 -5 96 
+-5 3 57 30 95 
+74 31 12 -5 40 
+53 39 -5 -5 1 
+-5 82 23 64 -5 
+
+Encontrado el numeros 72 en la matriz 18 en la iteracion 1
+Encontrado el numeros 88 en la matriz 18 en la iteracion 2
+Encontrado el numeros 63 en la matriz 18 en la iteracion 3
+Encontrado el numeros 66 en la matriz 18 en la iteracion 4
+Encontrado el numeros 79 en la matriz 18 en la iteracion 5
+Encontrado el numeros 77 en la matriz 18 en la iteracion 6
+11 71 60 51 -5 
+90 64 -5 -5 39 
+65 13 76 -5 26 
+20 34 40 0 95 
+21 -5 62 83 -5 
+
+Encontrado el numeros 58 en la matriz 19 en la iteracion 1
+Encontrado el numeros 72 en la matriz 19 en la iteracion 2
+Encontrado el numeros 69 en la matriz 19 en la iteracion 3
+Encontrado el numeros 63 en la matriz 19 en la iteracion 4
+Encontrado el numeros 84 en la matriz 19 en la iteracion 5
+24 70 -5 60 -5 
+53 -5 94 74 57 
+25 41 20 -5 45 
+76 68 16 15 18 
+75 -5 0 10 47 
+
+Encontrado el numeros 17 en la matriz 20 en la iteracion 1
+Encontrado el numeros 49 en la matriz 20 en la iteracion 2
+Encontrado el numeros 88 en la matriz 20 en la iteracion 3
+Encontrado el numeros 9 en la matriz 20 en la iteracion 4
+-5 23 90 8 4 
+-5 24 74 12 18 
+62 99 67 -5 92 
+29 64 16 21 25 
+-5 19 30 60 53 
+
+Encontrado el numeros 33 en la matriz 21 en la iteracion 1
+Encontrado el numeros 59 en la matriz 21 en la iteracion 2
+Encontrado el numeros 87 en la matriz 21 en la iteracion 3
+Encontrado el numeros 28 en la matriz 21 en la iteracion 4
+Encontrado el numeros 77 en la matriz 21 en la iteracion 5
+Encontrado el numeros 61 en la matriz 21 en la iteracion 6
+-5 85 -5 76 29 
+15 -5 89 48 1 
+68 -5 11 93 51 
+-5 -5 8 5 54 
+65 34 18 81 43 
+
+Encontrado el numeros 17 en la matriz 22 en la iteracion 1
+Encontrado el numeros 58 en la matriz 22 en la iteracion 2
+Encontrado el numeros 52 en la matriz 22 en la iteracion 3
+Encontrado el numeros 33 en la matriz 22 en la iteracion 4
+Encontrado el numeros 9 en la matriz 22 en la iteracion 5
+Encontrado el numeros 7 en la matriz 22 en la iteracion 6
+Encontrado el numeros 59 en la matriz 22 en la iteracion 7
+53 -5 31 23 35 
+-5 -5 91 43 25 
+-5 90 5 -5 -5 
+21 68 29 -5 15 
+86 3 48 11 26 
+
+Encontrado el numeros 17 en la matriz 23 en la iteracion 1
+Encontrado el numeros 52 en la matriz 23 en la iteracion 2
+Encontrado el numeros 72 en la matriz 23 en la iteracion 3
+Encontrado el numeros 27 en la matriz 23 en la iteracion 4
+Encontrado el numeros 69 en la matriz 23 en la iteracion 5
+Encontrado el numeros 63 en la matriz 23 en la iteracion 6
+Encontrado el numeros 42 en la matriz 23 en la iteracion 7
+Encontrado el numeros 84 en la matriz 23 en la iteracion 8
+Encontrado el numeros 97 en la matriz 23 en la iteracion 9
+Encontrado el numeros 77 en la matriz 23 en la iteracion 10
+78 -5 -5 91 24 
+40 31 54 -5 -5 
+-5 21 -5 45 38 
+89 12 70 -5 65 
+-5 -5 -5 64 94 
+
+Encontrado el numeros 52 en la matriz 24 en la iteracion 1
+Encontrado el numeros 33 en la matriz 24 en la iteracion 2
+Encontrado el numeros 98 en la matriz 24 en la iteracion 3
+36 23 -5 20 70 
+35 10 -5 18 34 
+22 19 -5 93 5 
+67 94 90 51 62 
+38 6 53 64 76 
+
+Encontrado el numeros 72 en la matriz 25 en la iteracion 1
+Encontrado el numeros 69 en la matriz 25 en la iteracion 2
+Encontrado el numeros 84 en la matriz 25 en la iteracion 3
+Encontrado el numeros 37 en la matriz 25 en la iteracion 4
+Encontrado el numeros 97 en la matriz 25 en la iteracion 5
+90 -5 16 70 34 
+57 94 3 61 36 
+60 22 47 -5 31 
+30 8 4 -5 91 
+12 65 -5 18 -5 
+
+Encontrado el numeros 52 en la matriz 26 en la iteracion 1
+Encontrado el numeros 72 en la matriz 26 en la iteracion 2
+Encontrado el numeros 55 en la matriz 26 en la iteracion 3
+Encontrado el numeros 9 en la matriz 26 en la iteracion 4
+Encontrado el numeros 98 en la matriz 26 en la iteracion 5
+Encontrado el numeros 84 en la matriz 26 en la iteracion 6
+Encontrado el numeros 79 en la matriz 26 en la iteracion 7
+12 93 39 1 96 
+0 13 67 -5 -5 
+-5 -5 30 40 62 
+10 74 -5 41 85 
+51 -5 47 -5 75 
+
+Encontrado el numeros 72 en la matriz 27 en la iteracion 1
+Encontrado el numeros 55 en la matriz 27 en la iteracion 2
+Encontrado el numeros 63 en la matriz 27 en la iteracion 3
+Encontrado el numeros 42 en la matriz 27 en la iteracion 4
+Encontrado el numeros 87 en la matriz 27 en la iteracion 5
+Encontrado el numeros 97 en la matriz 27 en la iteracion 6
+Encontrado el numeros 66 en la matriz 27 en la iteracion 7
+Encontrado el numeros 79 en la matriz 27 en la iteracion 8
+-5 82 76 -5 50 
+40 75 85 10 99 
+6 34 22 43 15 
+-5 57 -5 -5 -5 
+-5 24 -5 54 68 
+
+Encontrado el numeros 9 en la matriz 28 en la iteracion 1
+Encontrado el numeros 98 en la matriz 28 en la iteracion 2
+Encontrado el numeros 37 en la matriz 28 en la iteracion 3
+Encontrado el numeros 97 en la matriz 28 en la iteracion 4
+Encontrado el numeros 66 en la matriz 28 en la iteracion 5
+68 39 48 -5 81 
+26 -5 96 5 38 
+22 1 57 30 -5 
+2 43 14 50 -5 
+56 -5 62 13 29 
+
+Encontrado el numeros 69 en la matriz 29 en la iteracion 1
+Encontrado el numeros 88 en la matriz 29 en la iteracion 2
+Encontrado el numeros 9 en la matriz 29 en la iteracion 3
+Encontrado el numeros 98 en la matriz 29 en la iteracion 4
+Encontrado el numeros 87 en la matriz 29 en la iteracion 5
+Encontrado el numeros 28 en la matriz 29 en la iteracion 6
+4 -5 -5 -5 11 
+21 20 10 39 -5 
+85 47 -5 94 36 
+-5 75 35 22 91 
+86 44 2 56 12 
+
+Encontrado el numeros 49 en la matriz 30 en la iteracion 1
+Encontrado el numeros 69 en la matriz 30 en la iteracion 2
+Encontrado el numeros 80 en la matriz 30 en la iteracion 3
+Encontrado el numeros 7 en la matriz 30 en la iteracion 4
+Encontrado el numeros 98 en la matriz 30 en la iteracion 5
+Encontrado el numeros 84 en la matriz 30 en la iteracion 6
+-5 65 26 91 86 
+-5 25 45 -5 22 
+39 2 95 -5 46 
+-5 -5 68 85 47 
+23 90 40 4 44 
+
+Encontrado el numeros 58 en la matriz 31 en la iteracion 1
+Encontrado el numeros 52 en la matriz 31 en la iteracion 2
+Encontrado el numeros 33 en la matriz 31 en la iteracion 3
+Encontrado el numeros 73 en la matriz 31 en la iteracion 4
+Encontrado el numeros 69 en la matriz 31 en la iteracion 5
+Encontrado el numeros 88 en la matriz 31 en la iteracion 6
+Encontrado el numeros 63 en la matriz 31 en la iteracion 7
+Encontrado el numeros 37 en la matriz 31 en la iteracion 8
+Encontrado el numeros 28 en la matriz 31 en la iteracion 9
+-5 2 32 56 -5 
+30 11 -5 10 70 
+36 34 -5 82 -5 
+62 57 40 -5 96 
+-5 -5 41 -5 85 
+
+Encontrado el numeros 27 en la matriz 32 en la iteracion 1
+Encontrado el numeros 80 en la matriz 32 en la iteracion 2
+Encontrado el numeros 84 en la matriz 32 en la iteracion 3
+Encontrado el numeros 87 en la matriz 32 en la iteracion 4
+Encontrado el numeros 79 en la matriz 32 en la iteracion 5
+8 -5 64 -5 19 
+-5 -5 99 53 95 
+-5 6 31 22 3 
+44 91 47 41 82 
+16 74 43 29 70 
+
+Encontrado el numeros 49 en la matriz 33 en la iteracion 1
+Encontrado el numeros 72 en la matriz 33 en la iteracion 2
+Encontrado el numeros 27 en la matriz 33 en la iteracion 3
+Encontrado el numeros 42 en la matriz 33 en la iteracion 4
+Encontrado el numeros 84 en la matriz 33 en la iteracion 5
+32 67 62 81 36 
+47 61 74 60 57 
+-5 35 38 4 26 
+34 -5 2 21 90 
+-5 -5 -5 31 76 
+
+Encontrado el numeros 55 en la matriz 34 en la iteracion 1
+Encontrado el numeros 80 en la matriz 34 en la iteracion 2
+Encontrado el numeros 7 en la matriz 34 en la iteracion 3
+Encontrado el numeros 98 en la matriz 34 en la iteracion 4
+Encontrado el numeros 97 en la matriz 34 en la iteracion 5
+Encontrado el numeros 66 en la matriz 34 en la iteracion 6
+3 53 26 35 12 
+20 30 0 76 -5 
+96 46 89 83 48 
+-5 13 -5 -5 75 
+-5 82 -5 5 68 
+
+Encontrado el numeros 17 en la matriz 35 en la iteracion 1
+Encontrado el numeros 58 en la matriz 35 en la iteracion 2
+Encontrado el numeros 55 en la matriz 35 en la iteracion 3
+Encontrado el numeros 69 en la matriz 35 en la iteracion 4
+Encontrado el numeros 42 en la matriz 35 en la iteracion 5
+Encontrado el numeros 66 en la matriz 35 en la iteracion 6
+Encontrado el numeros 77 en la matriz 35 en la iteracion 7
+Encontrado el numeros 61 en la matriz 35 en la iteracion 8
+22 -5 -5 36 -5 
+95 53 4 21 94 
+5 -5 18 2 96 
+0 81 56 31 -5 
+70 75 -5 -5 -5 
+
+Encontrado el numeros 80 en la matriz 36 en la iteracion 1
+Encontrado el numeros 7 en la matriz 36 en la iteracion 2
+Encontrado el numeros 42 en la matriz 36 en la iteracion 3
+Encontrado el numeros 28 en la matriz 36 en la iteracion 4
+Encontrado el numeros 97 en la matriz 36 en la iteracion 5
+-5 10 40 -5 43 
+57 90 53 34 13 
+38 -5 47 86 89 
+51 65 76 85 0 
+48 62 -5 -5 35 
+
+Encontrado el numeros 52 en la matriz 37 en la iteracion 1
+Encontrado el numeros 72 en la matriz 37 en la iteracion 2
+Encontrado el numeros 73 en la matriz 37 en la iteracion 3
+Encontrado el numeros 69 en la matriz 37 en la iteracion 4
+Encontrado el numeros 88 en la matriz 37 en la iteracion 5
+Encontrado el numeros 97 en la matriz 37 en la iteracion 6
+Encontrado el numeros 66 en la matriz 37 en la iteracion 7
+Encontrado el numeros 79 en la matriz 37 en la iteracion 8
+6 21 -5 78 22 
+30 90 65 53 -5 
+31 36 3 99 32 
+-5 13 -5 68 -5 
+57 -5 -5 -5 94 
+
+Encontrado el numeros 17 en la matriz 38 en la iteracion 1
+Encontrado el numeros 52 en la matriz 38 en la iteracion 2
+Encontrado el numeros 49 en la matriz 38 en la iteracion 3
+Encontrado el numeros 80 en la matriz 38 en la iteracion 4
+Encontrado el numeros 98 en la matriz 38 en la iteracion 5
+Encontrado el numeros 63 en la matriz 38 en la iteracion 6
+Encontrado el numeros 87 en la matriz 38 en la iteracion 7
+Encontrado el numeros 77 en la matriz 38 en la iteracion 8
+-5 76 81 94 20 
+45 -5 -5 -5 18 
+-5 56 21 32 -5 
+-5 99 -5 24 43 
+61 1 16 3 40 
+
+Encontrado el numeros 17 en la matriz 39 en la iteracion 1
+Encontrado el numeros 49 en la matriz 39 en la iteracion 2
+Encontrado el numeros 55 en la matriz 39 en la iteracion 3
+Encontrado el numeros 27 en la matriz 39 en la iteracion 4
+Encontrado el numeros 69 en la matriz 39 en la iteracion 5
+Encontrado el numeros 98 en la matriz 39 en la iteracion 6
+Encontrado el numeros 42 en la matriz 39 en la iteracion 7
+Encontrado el numeros 84 en la matriz 39 en la iteracion 8
+Encontrado el numeros 37 en la matriz 39 en la iteracion 9
+3 45 -5 -5 31 
+99 23 90 71 -5 
+24 60 46 -5 -5 
+83 62 6 36 -5 
+-5 -5 11 68 -5 
+
+Encontrado el numeros 33 en la matriz 40 en la iteracion 1
+Encontrado el numeros 73 en la matriz 40 en la iteracion 2
+Encontrado el numeros 27 en la matriz 40 en la iteracion 3
+Encontrado el numeros 9 en la matriz 40 en la iteracion 4
+Encontrado el numeros 59 en la matriz 40 en la iteracion 5
+Encontrado el numeros 98 en la matriz 40 en la iteracion 6
+Encontrado el numeros 28 en la matriz 40 en la iteracion 7
+60 22 -5 46 0 
+-5 -5 -5 16 26 
+56 -5 43 93 31 
+-5 -5 29 6 94 
+13 12 51 61 45 
+
+Encontrado el numeros 58 en la matriz 41 en la iteracion 1
+Encontrado el numeros 72 en la matriz 41 en la iteracion 2
+Encontrado el numeros 27 en la matriz 41 en la iteracion 3
+Encontrado el numeros 9 en la matriz 41 en la iteracion 4
+Encontrado el numeros 87 en la matriz 41 en la iteracion 5
+Encontrado el numeros 97 en la matriz 41 en la iteracion 6
+85 22 48 -5 -5 
+86 23 65 19 91 
+50 36 -5 10 78 
+15 -5 3 -5 96 
+31 1 -5 8 14 
+
+Encontrado el numeros 55 en la matriz 42 en la iteracion 1
+Encontrado el numeros 80 en la matriz 42 en la iteracion 2
+Encontrado el numeros 98 en la matriz 42 en la iteracion 3
+Encontrado el numeros 84 en la matriz 42 en la iteracion 4
+Encontrado el numeros 66 en la matriz 42 en la iteracion 5
+Encontrado el numeros 79 en la matriz 42 en la iteracion 6
+Encontrado el numeros 77 en la matriz 42 en la iteracion 7
+-5 48 30 50 -5 
+92 71 90 25 14 
+39 45 -5 1 -5 
+47 8 -5 60 74 
+-5 75 -5 62 35 
+
+Encontrado el numeros 58 en la matriz 43 en la iteracion 1
+Encontrado el numeros 49 en la matriz 43 en la iteracion 2
+Encontrado el numeros 27 en la matriz 43 en la iteracion 3
+Encontrado el numeros 80 en la matriz 43 en la iteracion 4
+Encontrado el numeros 9 en la matriz 43 en la iteracion 5
+Encontrado el numeros 77 en la matriz 43 en la iteracion 6
+45 60 -5 16 18 
+78 21 23 44 56 
+36 -5 99 -5 61 
+81 71 75 -5 5 
+53 -5 46 -5 38 
+
+Encontrado el numeros 58 en la matriz 44 en la iteracion 1
+Encontrado el numeros 33 en la matriz 44 en la iteracion 2
+Encontrado el numeros 69 en la matriz 44 en la iteracion 3
+Encontrado el numeros 87 en la matriz 44 en la iteracion 4
+Encontrado el numeros 79 en la matriz 44 en la iteracion 5
+56 6 53 -5 -5 
+3 62 30 83 96 
+1 34 12 44 47 
+-5 35 -5 91 -5 
+20 85 0 60 4 
+
+Encontrado el numeros 58 en la matriz 45 en la iteracion 1
+Encontrado el numeros 27 en la matriz 45 en la iteracion 2
+Encontrado el numeros 9 en la matriz 45 en la iteracion 3
+Encontrado el numeros 87 en la matriz 45 en la iteracion 4
+Encontrado el numeros 28 en la matriz 45 en la iteracion 5
+Encontrado el numeros 66 en la matriz 45 en la iteracion 6
+Encontrado el numeros 79 en la matriz 45 en la iteracion 7
+-5 -5 -5 94 -5 
+3 10 -5 13 54 
+40 0 43 35 85 
+67 34 81 92 -5 
+21 53 -5 6 19 
+
+Encontrado el numeros 52 en la matriz 46 en la iteracion 1
+Encontrado el numeros 72 en la matriz 46 en la iteracion 2
+Encontrado el numeros 33 en la matriz 46 en la iteracion 3
+Encontrado el numeros 73 en la matriz 46 en la iteracion 4
+Encontrado el numeros 9 en la matriz 46 en la iteracion 5
+Encontrado el numeros 7 en la matriz 46 en la iteracion 6
+Encontrado el numeros 84 en la matriz 46 en la iteracion 7
+Encontrado el numeros 37 en la matriz 46 en la iteracion 8
+23 -5 -5 1 57 
+61 -5 -5 -5 64 
+-5 21 92 -5 46 
+50 56 38 25 76 
+75 67 47 81 -5 
+
+Encontrado el numeros 69 en la matriz 47 en la iteracion 1
+Encontrado el numeros 88 en la matriz 47 en la iteracion 2
+Encontrado el numeros 98 en la matriz 47 en la iteracion 3
+Encontrado el numeros 84 en la matriz 47 en la iteracion 4
+Encontrado el numeros 79 en la matriz 47 en la iteracion 5
+50 4 -5 48 85 
+46 39 45 93 -5 
+60 5 -5 68 21 
+31 67 8 74 16 
+-5 3 15 -5 23 
+
+Encontrado el numeros 17 en la matriz 48 en la iteracion 1
+Encontrado el numeros 49 en la matriz 48 en la iteracion 2
+Encontrado el numeros 27 en la matriz 48 en la iteracion 3
+Encontrado el numeros 88 en la matriz 48 en la iteracion 4
+Encontrado el numeros 9 en la matriz 48 en la iteracion 5
+Encontrado el numeros 84 en la matriz 48 en la iteracion 6
+Encontrado el numeros 97 en la matriz 48 en la iteracion 7
+Encontrado el numeros 79 en la matriz 48 en la iteracion 8
+Encontrado el numeros 61 en la matriz 48 en la iteracion 9
+53 -5 99 -5 25 
+16 86 -5 83 46 
+-5 75 67 19 10 
+-5 81 76 -5 8 
+-5 -5 -5 3 21 
+
+Encontrado el numeros 73 en la matriz 49 en la iteracion 1
+Encontrado el numeros 69 en la matriz 49 en la iteracion 2
+Encontrado el numeros 84 en la matriz 49 en la iteracion 3
+Encontrado el numeros 79 en la matriz 49 en la iteracion 4
+Encontrado el numeros 77 en la matriz 49 en la iteracion 5
+-5 40 56 75 4 
+34 16 -5 46 -5 
+19 54 35 74 -5 
+-5 50 20 47 10 
+62 99 51 6 92 
+
+Encontrado el numeros 49 en la matriz 50 en la iteracion 1
+Encontrado el numeros 72 en la matriz 50 en la iteracion 2
+Encontrado el numeros 33 en la matriz 50 en la iteracion 3
+Encontrado el numeros 73 en la matriz 50 en la iteracion 4
+Encontrado el numeros 80 en la matriz 50 en la iteracion 5
+Encontrado el numeros 28 en la matriz 50 en la iteracion 6
+Encontrado el numeros 97 en la matriz 50 en la iteracion 7
+Encontrado el numeros 79 en la matriz 50 en la iteracion 8
+53 -5 -5 96 45 
+-5 0 2 35 -5 
+51 70 34 90 -5 
+30 54 41 38 15 
+91 -5 -5 23 -5 
+
+Encontrado el numeros 17 en la matriz 51 en la iteracion 1
+Encontrado el numeros 55 en la matriz 51 en la iteracion 2
+Encontrado el numeros 80 en la matriz 51 en la iteracion 3
+Encontrado el numeros 37 en la matriz 51 en la iteracion 4
+20 78 -5 10 18 
+61 89 14 2 -5 
+93 96 41 70 76 
+19 -5 47 -5 71 
+82 92 90 0 57 
+
+Encontrado el numeros 58 en la matriz 52 en la iteracion 1
+Encontrado el numeros 33 en la matriz 52 en la iteracion 2
+Encontrado el numeros 80 en la matriz 52 en la iteracion 3
+Encontrado el numeros 7 en la matriz 52 en la iteracion 4
+Encontrado el numeros 37 en la matriz 52 en la iteracion 5
+Encontrado el numeros 97 en la matriz 52 en la iteracion 6
+Encontrado el numeros 66 en la matriz 52 en la iteracion 7
+29 40 64 62 32 
+56 -5 -5 68 67 
+16 76 4 50 13 
+-5 90 -5 60 83 
+-5 -5 25 -5 54 
+
+Encontrado el numeros 52 en la matriz 53 en la iteracion 1
+Encontrado el numeros 49 en la matriz 53 en la iteracion 2
+Encontrado el numeros 72 en la matriz 53 en la iteracion 3
+Encontrado el numeros 55 en la matriz 53 en la iteracion 4
+Encontrado el numeros 73 en la matriz 53 en la iteracion 5
+Encontrado el numeros 98 en la matriz 53 en la iteracion 6
+Encontrado el numeros 63 en la matriz 53 en la iteracion 7
+56 91 67 -5 -5 
+85 15 25 1 32 
+24 93 86 54 -5 
+22 -5 23 -5 94 
+65 -5 14 26 -5 
+
+Encontrado el numeros 52 en la matriz 54 en la iteracion 1
+Encontrado el numeros 72 en la matriz 54 en la iteracion 2
+Encontrado el numeros 33 en la matriz 54 en la iteracion 3
+Encontrado el numeros 73 en la matriz 54 en la iteracion 4
+Encontrado el numeros 84 en la matriz 54 en la iteracion 5
+Encontrado el numeros 37 en la matriz 54 en la iteracion 6
+Encontrado el numeros 87 en la matriz 54 en la iteracion 7
+74 38 19 20 11 
+57 86 -5 29 89 
+13 21 75 85 44 
+-5 -5 56 76 92 
+-5 -5 64 -5 -5 
+
+Encontrado el numeros 49 en la matriz 55 en la iteracion 1
+Encontrado el numeros 59 en la matriz 55 en la iteracion 2
+Encontrado el numeros 84 en la matriz 55 en la iteracion 3
+Encontrado el numeros 28 en la matriz 55 en la iteracion 4
+Encontrado el numeros 66 en la matriz 55 en la iteracion 5
+45 14 60 32 -5 
+-5 -5 16 2 94 
+19 10 68 90 78 
+95 8 93 61 24 
+85 48 29 -5 -5 
+
+Encontrado el numeros 88 en la matriz 56 en la iteracion 1
+Encontrado el numeros 9 en la matriz 56 en la iteracion 2
+Encontrado el numeros 63 en la matriz 56 en la iteracion 3
+Encontrado el numeros 42 en la matriz 56 en la iteracion 4
+Encontrado el numeros 87 en la matriz 56 en la iteracion 5
+Encontrado el numeros 66 en la matriz 56 en la iteracion 6
+Encontrado el numeros 79 en la matriz 56 en la iteracion 7
+6 74 4 -5 86 
+-5 -5 8 96 -5 
+-5 85 89 -5 12 
+57 1 67 38 32 
+-5 26 71 78 46 
+
+Encontrado el numeros 49 en la matriz 57 en la iteracion 1
+Encontrado el numeros 88 en la matriz 57 en la iteracion 2
+Encontrado el numeros 37 en la matriz 57 en la iteracion 3
+Encontrado el numeros 77 en la matriz 57 en la iteracion 4
+78 -5 54 -5 56 
+18 4 50 14 23 
+16 12 25 64 39 
+75 2 22 41 -5 
+-5 19 93 85 53 
+
+Encontrado el numeros 52 en la matriz 58 en la iteracion 1
+Encontrado el numeros 55 en la matriz 58 en la iteracion 2
+Encontrado el numeros 7 en la matriz 58 en la iteracion 3
+Encontrado el numeros 63 en la matriz 58 en la iteracion 4
+Encontrado el numeros 42 en la matriz 58 en la iteracion 5
+Encontrado el numeros 37 en la matriz 58 en la iteracion 6
+Encontrado el numeros 66 en la matriz 58 en la iteracion 7
+Encontrado el numeros 79 en la matriz 58 en la iteracion 8
+-5 6 -5 48 -5 
+51 67 -5 -5 3 
+-5 43 39 56 91 
+8 18 -5 29 89 
+-5 71 45 36 38 
+
+Encontrado el numeros 17 en la matriz 59 en la iteracion 1
+Encontrado el numeros 88 en la matriz 59 en la iteracion 2
+Encontrado el numeros 80 en la matriz 59 en la iteracion 3
+Encontrado el numeros 9 en la matriz 59 en la iteracion 4
+Encontrado el numeros 7 en la matriz 59 en la iteracion 5
+Encontrado el numeros 98 en la matriz 59 en la iteracion 6
+Encontrado el numeros 42 en la matriz 59 en la iteracion 7
+Encontrado el numeros 84 en la matriz 59 en la iteracion 8
+Encontrado el numeros 28 en la matriz 59 en la iteracion 9
+Encontrado el numeros 79 en la matriz 59 en la iteracion 10
+Encontrado el numeros 77 en la matriz 59 en la iteracion 11
+-5 8 -5 35 -5 
+11 62 -5 93 68 
+-5 26 61 96 19 
+29 -5 81 43 -5 
+-5 -5 23 -5 -5 
+
+Encontrado el numeros 17 en la matriz 60 en la iteracion 1
+Encontrado el numeros 52 en la matriz 60 en la iteracion 2
+Encontrado el numeros 73 en la matriz 60 en la iteracion 3
+Encontrado el numeros 7 en la matriz 60 en la iteracion 4
+Encontrado el numeros 77 en la matriz 60 en la iteracion 5
+90 21 51 43 60 
+95 12 34 -5 29 
+75 82 47 92 15 
+56 -5 -5 64 -5 
+-5 85 94 41 46 
+
+Encontrado el numeros 58 en la matriz 61 en la iteracion 1
+Encontrado el numeros 88 en la matriz 61 en la iteracion 2
+Encontrado el numeros 37 en la matriz 61 en la iteracion 3
+Encontrado el numeros 97 en la matriz 61 en la iteracion 4
+43 75 -5 76 35 
+-5 41 65 60 14 
+90 51 83 32 -5 
+26 99 16 68 64 
+44 -5 24 29 20 
+
+Encontrado el numeros 58 en la matriz 62 en la iteracion 1
+Encontrado el numeros 33 en la matriz 62 en la iteracion 2
+Encontrado el numeros 27 en la matriz 62 en la iteracion 3
+Encontrado el numeros 7 en la matriz 62 en la iteracion 4
+Encontrado el numeros 98 en la matriz 62 en la iteracion 5
+Encontrado el numeros 87 en la matriz 62 en la iteracion 6
+Encontrado el numeros 97 en la matriz 62 en la iteracion 7
+Encontrado el numeros 66 en la matriz 62 en la iteracion 8
+50 32 90 95 -5 
+34 38 82 39 15 
+60 -5 68 40 22 
+85 -5 -5 -5 -5 
+30 54 -5 11 -5 
+
+Encontrado el numeros 52 en la matriz 63 en la iteracion 1
+Encontrado el numeros 84 en la matriz 63 en la iteracion 2
+Encontrado el numeros 87 en la matriz 63 en la iteracion 3
+Encontrado el numeros 77 en la matriz 63 en la iteracion 4
+-5 30 -5 12 0 
+34 6 5 70 44 
+-5 67 4 61 75 
+31 96 -5 57 8 
+21 41 13 45 62 
+
+Encontrado el numeros 33 en la matriz 64 en la iteracion 1
+Encontrado el numeros 55 en la matriz 64 en la iteracion 2
+Encontrado el numeros 73 en la matriz 64 en la iteracion 3
+Encontrado el numeros 27 en la matriz 64 en la iteracion 4
+Encontrado el numeros 69 en la matriz 64 en la iteracion 5
+Encontrado el numeros 88 en la matriz 64 en la iteracion 6
+Encontrado el numeros 80 en la matriz 64 en la iteracion 7
+Encontrado el numeros 9 en la matriz 64 en la iteracion 8
+Encontrado el numeros 98 en la matriz 64 en la iteracion 9
+Encontrado el numeros 42 en la matriz 64 en la iteracion 10
+Encontrado el numeros 84 en la matriz 64 en la iteracion 11
+Encontrado el numeros 97 en la matriz 64 en la iteracion 12
+Encontrado el numeros 66 en la matriz 64 en la iteracion 13
+Encontrado el numeros 77 en la matriz 64 en la iteracion 14
+
+Encontrado linea en la matriz 64 es el numero 1 en resolverse
